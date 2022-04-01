@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /tmp/ AND mkdir my_first_directory chmod u+x my_first_directory
+mkdir /tnp/my_first_directory
