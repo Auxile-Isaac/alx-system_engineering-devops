@@ -1,4 +1,4 @@
-https://imgur.com/a/fspivWk
+https://imgur.com/EjLwZom
 Answer:
 	We now have 3 servers. We distributed the application server, webserver
 	and database with in their own server. Now they became a cluster server
